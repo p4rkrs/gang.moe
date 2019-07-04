@@ -24,8 +24,8 @@ module.exports = {
 		Both cases require you to type the domain where the files will be served on the `domain` key below.
 		Which one you use is ultimately up to you.
 	*/
-	serveFilesWithNode: true,
-	domain: 'https://gang.moe',
+	serveFilesWithNode: false,
+	domain: 'https://a.gang.moe',
 
 	// Port on which to run the server
 	port: 9999,
@@ -88,10 +88,10 @@ module.exports = {
 			NOTE: Thumbnails are only for the admin panel and they require you
 			to install a separate binary called ffmpeg (https://ffmpeg.org/) for video files
 		*/
-		generateThumbnails: false,
+		generateThumbnails: true,
 
 		scan: {
-			enabled: true,
+			enabled: false,
 			ip: '127.0.0.1',
 			port: 3310
 		},
