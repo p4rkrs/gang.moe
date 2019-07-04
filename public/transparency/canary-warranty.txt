@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+As of Feb. 05 2019, gang.moe has not received:
+
+ * A gag order preventing the disclosure of a broad order for user metadata
+ * A gag order preventing the disclosure of a broad order for user data
+ * A gag order preventing the disclosure of a targeted order for user data
+
+A gag order means:
+
+ * A National Security Letter
+ * An order under the Foreign Intelligence Surveillance Act
+ * A Non-Disclosure Order issued by a local, state, or federal court
+ * Any other gag order or classified order for user information
+
+gang.moe would shut down before becoming complicit in crimes against its own userbase by the US government or any other government for that matter.
+
+This canary should be updated on the first of every month, but due to laziness could be delayed by up to a week. Failure to update this canary does not mean cock.li has received a gag order, nor is not updating it or omitting anything an attempt to communicate anything to anyone. This canary serves only to periodically confrim certain facts as long as they are true.
+
+Recent news:
+
+  Mexico foreign minister says not defending Venezuela's Maduro
+  https://www.reuters.com/article/us-mexico-venezuela/mexico-foreign-minister-says-not-defending-venezuelas-maduro-idUSKCN1PU1RZ
+
+  Federal prosecutors subpoena Trump inaugural records
+  https://www.nbcnews.com/politics/justice-department/federal-prosecutors-subpoena-trump-inaugural-records-n966901
+
+  /pol/ is always right
+  https://4chan.org/pol/
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+wsBcBAABCgAGBQJcWccSAAoJEFlBpfcgoXGM/HwH/jd82kS+b9pn6MslxLODn/M8
+GMPatR27RZBxZc2+IVszDLO6qmsY2gM3wU1Pflu23ZBGrbxSCRYXsHQPvyikas8Y
+RKLFa1dx4cazslC0PYyeifE4vwWxkdeeeizw/LQPJmBTsaPE86upq3j5cUVFoguZ
+X6vR2oJr+sjmhe/h+hlJOLAV0idj/dF/LiUzBhKminutTsH3VZZLz33RwE0Ed620
+7bZ004HMDsxWV0TwVrmxD7I8lmYxq1a9UyTOrndYmA4K9JYdG2GEoFVP9xGKRMiI
+KcxoYgorK9TWQWh/VFQ6qRhm6owBfM8il7zMPecxWYJpbEY4PAa+ybEU869isOI=
+=LuWf
+-----END PGP SIGNATURE-----
